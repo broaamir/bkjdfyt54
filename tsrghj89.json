@@ -1,7 +1,8 @@
 {	"active_slider":1,
-	"image" : ["https://source.unsplash.com/600x250",
-				"https://source.unsplash.com/600x250",
-				"https://source.unsplash.com/400x250"],
+	"image" : ["https://www.andlooksofficial.com/yasmin/assets/banner/banner1.png",
+		    "https://www.andlooksofficial.com/yasmin/assets/banner/banner2.png",
+		"https://www.andlooksofficial.com/yasmin/assets/banner/banner3.png",
+		"https://www.andlooksofficial.com/yasmin/assets/banner/banner4.png"],
 	"active_link" : 1,
-	"link":"https://detik.com"
+	"link":"https://www.andlooksofficial.com/yasmin/"
 }
