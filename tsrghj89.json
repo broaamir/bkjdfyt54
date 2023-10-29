@@ -1,8 +1,8 @@
-{	"active_slider":0
+{	"active_slider":0,
 	"image" : ["https://source.unsplash.com/600x250",
 				"https://source.unsplash.com/600x250",
 				"https://source.unsplash.com/600x250",
 				"https://source.unsplash.com/600x250"],
-	"active_link" : 1,
+	"active_link" : 0,
 	"link":"https://detik.com"
 }
